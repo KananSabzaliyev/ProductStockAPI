@@ -1,0 +1,17 @@
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\bin\Debug\net5.0\ProductStockFinder.Business.deps.json
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\bin\Debug\net5.0\ProductStockFinder.Business.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\bin\Debug\net5.0\ref\ProductStockFinder.Business.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\bin\Debug\net5.0\ProductStockFinder.Business.pdb
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\bin\Debug\net5.0\ProductStockFinder.DataAccess.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\bin\Debug\net5.0\ProductStockFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\bin\Debug\net5.0\ProductStockFinder.DataAccess.pdb
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\bin\Debug\net5.0\ProductStockFinder.Entities.pdb
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\obj\Debug\net5.0\ProductStockFinder.Business.csprojAssemblyReference.cache
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\obj\Debug\net5.0\ProductStockFinder.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\obj\Debug\net5.0\ProductStockFinder.Business.AssemblyInfoInputs.cache
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\obj\Debug\net5.0\ProductStockFinder.Business.AssemblyInfo.cs
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\obj\Debug\net5.0\ProductStockFinder.Business.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\obj\Debug\net5.0\ProductStockFinder.Business.csproj.CopyComplete
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\obj\Debug\net5.0\ProductStockFinder.Business.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\obj\Debug\net5.0\ref\ProductStockFinder.Business.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Business\obj\Debug\net5.0\ProductStockFinder.Business.pdb

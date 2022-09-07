@@ -1,0 +1,12 @@
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\bin\Debug\net5.0\ProductStockFinder.Entities.deps.json
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\bin\Debug\net5.0\ProductStockFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\bin\Debug\net5.0\ref\ProductStockFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\bin\Debug\net5.0\ProductStockFinder.Entities.pdb
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\obj\Debug\net5.0\ProductStockFinder.Entities.csprojAssemblyReference.cache
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\obj\Debug\net5.0\ProductStockFinder.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\obj\Debug\net5.0\ProductStockFinder.Entities.AssemblyInfoInputs.cache
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\obj\Debug\net5.0\ProductStockFinder.Entities.AssemblyInfo.cs
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\obj\Debug\net5.0\ProductStockFinder.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\obj\Debug\net5.0\ProductStockFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\obj\Debug\net5.0\ref\ProductStockFinder.Entities.dll
+C:\Users\Kenan\source\repos\ProductStockApi\ProductStockFinder.Entities\obj\Debug\net5.0\ProductStockFinder.Entities.pdb
